@@ -20,5 +20,5 @@ Instructions: 1-Download Magic DosBox Free from Play Store (Android)
 16-Click the back button and put the Pc Keyboard 
 17-Type "doom" and click the enter button 18-Touch the button for turn up the volume 
 
-# <A HREF="otra_pagina.html"> ProjectDVC Latest Release </A>ProjectDVC Latest Release
+# <A HREF="otra_pagina.html"> ProjectDVC Latest Release </A>
 Click and download the latest release (v0.2) for Doom Virtual Controller (DVC)
