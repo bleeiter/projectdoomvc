@@ -22,3 +22,4 @@ Instructions: 1-Download Magic DosBox Free from Play Store (Android)
 
 # ProjectDVC Latest Release
 Click and download the latest release (v0.2) for Doom Virtual Controller (DVC)
+<A HREF="otra_pagina.html"> Este es un link </A>
