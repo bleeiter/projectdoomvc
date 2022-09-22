@@ -9,3 +9,4 @@ Click and download the latest version (v0.3) for Doom Virtual Controller (DVC)
 PD: This doesn't have a source code, so don't download the source code in the releases!
 
 # <A HREF="https://bleeiter.github.io/projectdvc-site/"> Github Site </A>
+Click and go to the github site of projectdvc
