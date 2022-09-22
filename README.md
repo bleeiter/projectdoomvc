@@ -10,4 +10,4 @@ PD: This doesn't have a source code, so don't download the source code in the re
 
 # <A HREF="https://bleeiter.github.io/projectdvc-site/"> Github Site </A>
 Click and go to the github site of projectdvc
-PD: If you got the error 404 is because the site is updating
+PD: If you got the error 404 is because the site is updating or visit https://bleeiter.github.io/tst02/ for watch the new updates or beta things
