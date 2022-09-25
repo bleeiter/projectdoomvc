@@ -8,6 +8,6 @@ Doom Virtual Controller for Mobile (DVC) is a project for android to make contro
 Click and download the latest version (v0.3) for Doom Virtual Controller (DVC) 
 PD: This doesn't have a source code, so don't download the source code in the releases!
 
-# <A HREF="https://bleeiter.github.io/projectdvc/"> Github Site </A>
+# <A HREF="https://bleeiter.github.io/doomvirtualcontroller/"> Github Site </A>
 Click and go to the github site of projectdvc
 PD: If you got the error 404 is because the site is updating
