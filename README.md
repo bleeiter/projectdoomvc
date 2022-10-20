@@ -12,6 +12,6 @@ PD: This doesn't have a source code, so don't download the source code in the re
 Click and go to the github site of projectdvc
 PD: If you got the error 404 is because the site is updating
 
-# Ninimum Requirements
+# Minimum Requirements
 750mb ram
 Android 4.0
