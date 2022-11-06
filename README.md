@@ -15,3 +15,5 @@ PD: If you got the error 404 is because the site is updating
 # Minimum Requirements
 750mb ram
 Android 4.0
+
+
