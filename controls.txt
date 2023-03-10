@@ -1,7 +1,7 @@
 Arrows: Camera movement and player movement
 LB and RB: Slide (,) (.)
 Y: Escape (esc)
-C: Open Doors, etc (Space)
+C: Use/Open (Space)
 A: Map (tab)
 X: Shoot (Right CTRL)
 B: Enter (useful for options) (Enter)
