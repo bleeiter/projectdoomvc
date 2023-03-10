@@ -1,4 +1,4 @@
-Arrows: Movement
+Arrows: Camera movement and player movement
 LB and RB: Slide (,) (.)
 Y: Escape (esc)
 C: Open Doors, etc (Space)
