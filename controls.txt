@@ -1,0 +1,10 @@
+Arrows: Movement
+LB and RB: Slide (,) (.)
+Y: Escape (esc)
+C: Open Doors, etc (Space)
+A: Map (tab)
+X: Shoot (Right CTRL)
+B: Enter (useful for options) (Enter)
+Z: Run (Right Shift)
+------------------------------------------------------------
+in v0.6 the letters will be replaced by icons
