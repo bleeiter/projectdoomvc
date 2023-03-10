@@ -12,6 +12,10 @@ PD: This doesn't have a source code, so don't download the source code in the re
 750mb ram
 Android 4.0
 
+# MS-DOS Emulator
+in google play search magic dosbox lite
+
+
 # About Apk Risk
 For some reason google play is detecting a "virus" that not exist, if you want don't install the apk, obviously if you don't install the apk you can't use this project
 
