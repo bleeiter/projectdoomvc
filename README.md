@@ -4,8 +4,8 @@ Doom Virtual Controller for Mobile (DVC) is a project for android to make a virt
 # <A HREF="https://github.com/bleeiter/projectdvc/blob/main/INSTRUCTIONS.md"> INSTRUCTIONS.md </A>
 ![a83be2d0-a52f-4d3d-8d9d-af5821205520](https://user-images.githubusercontent.com/114025392/191547937-c3979eb8-4708-45c5-976c-936fa9fcaaae.gif)
 
-# <A HREF="https://github.com/bleeiter/projectdvc/releases/download/V0.5.1/Doom.Virtual.Controller.7z"> ProjectDVC Latest Release </A>
-Click and download the latest version (v0.5.1) for Doom Virtual Controller (DVC) 
+# <A HREF="https://github.com/bleeiter/projectdvc/releases/tag/v0.6"> ProjectDVC Latest Release </A>
+Click and download the latest version (v0.6) for Doom Virtual Controller (DVC) 
 PD: This doesn't have a source code, so don't download the source code in the releases
 
 # Minimum Requirements
@@ -13,7 +13,7 @@ PD: This doesn't have a source code, so don't download the source code in the re
 Android 4.0
 
 # MS-DOS Emulator
-in google play search magic dosbox lite
+in google play search Magic DosBox Lite and Select in menu "public"
 
 
 # About Apk Risk
