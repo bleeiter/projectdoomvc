@@ -1,5 +1,5 @@
 # ProjectDVC
-Doom Virtual Controller for Mobile (DVC) is a project for android to make a virtual controller for Doom (1993)
+Doom Virtual Controller for Mobile (DVC) is a project for android to make a virtual controller for Doom (1993) (compatibility with Doom II)
 
 # <A HREF="https://github.com/bleeiter/projectdvc/blob/main/controls.txt"> controls.txt </A>
 ![a83be2d0-a52f-4d3d-8d9d-af5821205520](https://user-images.githubusercontent.com/114025392/191547937-c3979eb8-4708-45c5-976c-936fa9fcaaae.gif)
